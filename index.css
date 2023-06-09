@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    background-image: url("images/basketball.jpg");
+    background-size: 100%;
+    text-align: center;
+    font-family: 'Basketball', sans-serif;
+                                                
+}
+
+h3 {
+    background: #17408B;
+    width: 100px;
+    padding: 5px 10px;
+    margin: 25px auto;
+    color: white;
+    font-size: 30px;
+}
+
+p {
+    background: #FFFFFF;
+    width: 100px;
+    height: 60px;
+    font-size: 50px;
+    margin: 25px auto;
+}
+
+button {
+    background: #C9082A;
+    width: 40px;
+    color: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+#reset {
+    display: flex;
+    margin: 0px auto;
+    background: #AAFF00;
+    width: 70px;
+    height: 25px;
+    color: black;
+}
